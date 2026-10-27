@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/miidllaj-786/midlaj/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/miidllaj-786/midlaj/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/miidllaj-786/midlaj/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/miidllaj-786/midlaj/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/miidllaj-786/midlaj/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -29,9 +31,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/miidllaj-786/midlaj/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/miidllaj-786/midlaj/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/miidllaj-786/midlaj/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
