@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/miidllaj-786/midlaj/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
 | [1480-running-sum-of-1d-array](https://github.com/miidllaj-786/midlaj/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/miidllaj-786/midlaj/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/miidllaj-786/midlaj/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/miidllaj-786/midlaj/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
