@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/miidllaj-786/midlaj/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/miidllaj-786/midlaj/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/miidllaj-786/midlaj/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/miidllaj-786/midlaj/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/miidllaj-786/midlaj/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
