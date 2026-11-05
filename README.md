@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/miidllaj-786/midlaj/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/miidllaj-786/midlaj/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/miidllaj-786/midlaj/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/miidllaj-786/midlaj/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/miidllaj-786/midlaj/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/miidllaj-786/midlaj/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/miidllaj-786/midlaj/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/miidllaj-786/midlaj/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/miidllaj-786/midlaj/tree/master/0709-to-lower-case) |
 ## Sorting
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/miidllaj-786/midlaj/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/miidllaj-786/midlaj/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/miidllaj-786/midlaj/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/miidllaj-786/midlaj/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/miidllaj-786/midlaj/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/miidllaj-786/midlaj/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
