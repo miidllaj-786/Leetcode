@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/miidllaj-786/midlaj/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/miidllaj-786/midlaj/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/miidllaj-786/midlaj/tree/master/0506-relative-ranks) |
 | [1480-running-sum-of-1d-array](https://github.com/miidllaj-786/midlaj/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/miidllaj-786/midlaj/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/miidllaj-786/midlaj/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/miidllaj-786/midlaj/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/miidllaj-786/midlaj/tree/master/0506-relative-ranks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/miidllaj-786/midlaj/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
