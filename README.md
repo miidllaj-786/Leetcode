@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/miidllaj-786/midlaj/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/miidllaj-786/midlaj/tree/master/0724-find-pivot-index) |
+| [1207-unique-number-of-occurrences](https://github.com/miidllaj-786/midlaj/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/miidllaj-786/midlaj/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/miidllaj-786/midlaj/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/miidllaj-786/midlaj/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/miidllaj-786/midlaj/tree/master/0389-find-the-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/miidllaj-786/midlaj/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
