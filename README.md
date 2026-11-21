@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/miidllaj-786/midlaj/tree/master/0506-relative-ranks) |
 | [0724-find-pivot-index](https://github.com/miidllaj-786/midlaj/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/miidllaj-786/midlaj/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/miidllaj-786/midlaj/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/miidllaj-786/midlaj/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/miidllaj-786/midlaj/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/miidllaj-786/midlaj/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/miidllaj-786/midlaj/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/miidllaj-786/midlaj/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/miidllaj-786/midlaj/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/miidllaj-786/midlaj/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/miidllaj-786/midlaj/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/miidllaj-786/midlaj/tree/master/0506-relative-ranks) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/miidllaj-786/midlaj/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/miidllaj-786/midlaj/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/miidllaj-786/midlaj/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
