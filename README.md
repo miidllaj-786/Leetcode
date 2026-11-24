@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/miidllaj-786/midlaj/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/miidllaj-786/midlaj/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/miidllaj-786/midlaj/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/miidllaj-786/midlaj/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/miidllaj-786/midlaj/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/miidllaj-786/midlaj/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/miidllaj-786/midlaj/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/miidllaj-786/midlaj/tree/master/1486-xor-operation-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
